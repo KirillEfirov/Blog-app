@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## CRUD(L)
 
-Things you may want to cover:
+Imlement `CRUD`-operations on articles.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+CRUD(L) is an acronym for 4(5) actions that we can commit to data: create, read, update, delete, list 
